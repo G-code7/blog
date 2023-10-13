@@ -14,7 +14,6 @@ status: "published"
 
 # BOOTCAMP GRADUATES SALARIES 2019 EDITION
 
-
 It’s been some time since we gathered an updated trend and data related to the [developer’s estimated wages](/us/career-growth/wages-report-2018-1). If you’re considering a career path in technology, especially as a software developer, the first question that normally comes to your mind is: How much money developers make? There is a bunch of data to answer that question. 
 
 [According to Payscale](https://www.payscale.com/research/US/Job=Front_End_Developer_%2F_Engineer/Salary/f9729119/Miami-FL), a Web Developer in Miami earns an average of $64k per year, and an entry-level developer earns an average of $51k in the same period. 
