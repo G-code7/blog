@@ -1,11 +1,10 @@
 ---
 author: "4GeeksAcademy"
 date: "2023-10-30T02:58:12+00:00"
-excerpt: "Acelera tu Carrera: Aprender Programación"
+excerpt: "Financiamiento educativo accesible y asequible con los Acuerdos de Ingresos compartidos (ISA). Concentrate en tus estudios sin preocuparte por la deuda estudiantil. Unete a programas de alta calidad en desarrollo de software o ciencia de datos para prosperar en el campo laboral. 4Geeks y Quotanda te brindan educación de vanguardia."
 template: "post"
 title: "Acuerdo de Ingresos Compartidos Bootcamps Latam"
 image_alt: "Acuerdo de Ingresos Compartidos Bootcamps Latam"
-cluster: "aprender-programacion"
 
 ---
 
